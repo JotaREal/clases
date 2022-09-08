@@ -46,7 +46,7 @@ int main()
    cout<<ope.suma()<<endl;
     cout<<ope.resta()<<endl;
      cout<<ope.multi()<<endl;
-      
+      cout<<"Bien o que"<<endl;
 
     return 0;
 }
